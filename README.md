@@ -1,2 +1,2 @@
 # myVideoApp
-an Android projet
+an Android project
